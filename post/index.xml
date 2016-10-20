@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Book revs </title>
-    <link>http://reinhadt.github.io/bookshelf/post/index.xml</link>
+    <link>https://reinhadt.github.io/bookshelf/post/index.xml</link>
     <language>en-us</language>
     <author></author>
     <rights>(C) 2016</rights>
@@ -12,10 +12,10 @@
       
         <item>
           <title>Good to great book review</title>
-          <link>http://reinhadt.github.io/bookshelf/post/goot-to-great/</link>
+          <link>https://reinhadt.github.io/bookshelf/post/goot-to-great/</link>
           <pubDate>Wed, 19 Oct 2016 18:54:11 CDT</pubDate>
           <author></author>
-          <guid>http://reinhadt.github.io/bookshelf/post/goot-to-great/</guid>
+          <guid>https://reinhadt.github.io/bookshelf/post/goot-to-great/</guid>
           <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great. Although this book is about how companies became great but we could apply a lot of the learnings on ourselves. Concepts like level 5 leader, hedgehog concept, the stockdale paradox are equally applicable to individuals.&lt;/p&gt;
 </description>
         </item>
